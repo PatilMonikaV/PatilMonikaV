@@ -4,7 +4,7 @@
 💻 **Aspiring Data Scientist | Data Analyst Intern**  
 🔍 Passionate about **Data Analysis, Machine Learning**, and **Business Intelligence**  
 📊 Currently exploring **Power BI Dashboards**, **Machine Learning Models**, and **Data Visualization**  
-🏆 Proud participant of **TCS CodeVita** 2024  
+🏆 **TCS CodeVita Participant 2024**  
 
 ---
 
@@ -21,7 +21,7 @@ With hands-on experience in databases like **AdventureWorks**, **Sakila**, and *
 #### My Technical Expertise
 
 - **Languages**: C++, Java, Python, SQL, VBA
-- **Data Science**: Machine Learning (Supervised, Unsupervised), Feature Engineering, Data Preprocessing , Deep Learning
+- **Data Science**: Machine Learning (Supervised, Unsupervised), Feature Engineering, Data Preprocessing , Deep Learning, NLP
 - **Tools**: Power BI, Qlik Sense, Jupyter, Spyder, Git  
 - **Databases**: MySQL, AdventureWorks OLTP, Sakila Database, AdventureWorks DW  
 - **Data Visualization**: Power BI (reports, dashboards, decomposition trees), Matplotlib, Seaborn  
